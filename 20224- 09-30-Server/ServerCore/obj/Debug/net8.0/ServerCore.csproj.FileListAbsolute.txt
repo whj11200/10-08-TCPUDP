@@ -1,0 +1,14 @@
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\bin\Debug\net8.0\ServerCore.exe
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\bin\Debug\net8.0\ServerCore.runtimeconfig.json
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\bin\Debug\net8.0\ServerCore.dll
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.dll
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ServerCore.genruntimeconfig.cache
+C:\Users\YONSAI\Documents\GameServer\20224- 09-30-Server\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
